@@ -544,9 +544,17 @@ body {
   text-align:center;
   }
   
+  .project_box b{
+    color:#fff;
+    padding:10px;
+  }
   .projects_box a{
     color: #fff;
     margin: 20px;
+    border:solid 1px;
+    border-radius:4px;
+    padding:2px 20px;
+    text-decoration:none;
   }
   
   .about{
